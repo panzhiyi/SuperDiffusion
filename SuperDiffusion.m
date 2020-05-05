@@ -4,7 +4,7 @@ args.scale_theta=10:20; % control the edge weight
 args.VA_theta=300;
 args.sp_num=300;
 args.CS_theta={'Lab<-' 'RGB<-' 'HSV<-'};
-args.extra_methods={};
+args.otherfeature={};
 args.sigma={[1 0;0 1] [0.5 0;0 0.5]};
 
 %%------------------------divide data set---------------------%%
