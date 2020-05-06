@@ -31,6 +31,7 @@ For each dataset and protocol, the top three results are highlighted in red, blu
      ```
 
 2. Dataset
+
    Download the [MSRA10K](https://mmcheng.net/msra10k/) and change the `imgRoot` to your MSRA10K path in `SuperDiffusion.m`.
 
 3. Evaluation
