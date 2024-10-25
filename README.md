@@ -1,4 +1,4 @@
-# [Super Diffusion for Salient Object Detection(TIP2019)](https://arxiv.org/pdf/1811.09038.pdf)
+# [Super Diffusion for Salient Object Detection (TIP2019)](https://arxiv.org/pdf/1811.09038.pdf)
 
 [Peng Jiang](https://github.com/sdujump), [Zhiyi Pan](https://github.com/panzhiyi), Changhe Tu, Nuno Vasconcelos, Baoquan Chen, and Jingliang Peng
 
@@ -10,11 +10,11 @@ In this work, we firstly present a novel view of the working mechanism of the di
 
 For each dataset and protocol, the top three results are highlighted in red, blue and green, respectively. The   ↑/↓ sign indicates that the value is positively/negatively related with the performance. 
 
-<center>Tabel 1. performance statistics of unsupervised algorithms</center>
+<center>Tabel 1. Performance statistics of unsupervised algorithms</center>
 
 ![](./img/unsupervised.png)
 
-<center>Tabel 2. performance statistics of supervised algorithms</center>
+<center>Tabel 2. Performance statistics of supervised algorithms</center>
 
 ![](./img/supervised.png)
 
